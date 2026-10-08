@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="L1 MAX EPG automático" generator-info-url="https://liga1.pe/">
+  <channel id="l1max.pe">
+    <display-name lang="es">L1 MAX</display-name>
+  </channel>
+  <programme start="20261008130000 -0500" stop="20261008153000 -0500" channel="l1max.pe">
+    <title lang="es">CD Moquegua vs Cienciano</title>
+    <desc lang="es">Liga 1 de Perú - CD Moquegua vs Cienciano. Transmisión por L1 MAX.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20261008153000 -0500" stop="20261008180000 -0500" channel="l1max.pe">
+    <title lang="es">Atlético Grau vs Los Chankas</title>
+    <desc lang="es">Liga 1 de Perú - Atlético Grau vs Los Chankas. Transmisión por L1 MAX.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20261009200000 -0500" stop="20261009223000 -0500" channel="l1max.pe">
+    <title lang="es">Dep. Garcilaso vs Sport Huancayo</title>
+    <desc lang="es">Liga 1 de Perú - Dep. Garcilaso vs Sport Huancayo. Transmisión por L1 MAX.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20261010130000 -0500" stop="20261010153000 -0500" channel="l1max.pe">
+    <title lang="es">ADT vs FC Cajamarca</title>
+    <desc lang="es">Liga 1 de Perú - ADT vs FC Cajamarca. Transmisión por L1 MAX.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20261010153000 -0500" stop="20261010180000 -0500" channel="l1max.pe">
+    <title lang="es">Com. Unidos vs Juan Pablo II</title>
+    <desc lang="es">Liga 1 de Perú - Com. Unidos vs Juan Pablo II. Transmisión por L1 MAX.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20261010190000 -0500" stop="20261010213000 -0500" channel="l1max.pe">
+    <title lang="es">Universitario vs FBC Melgar</title>
+    <desc lang="es">Liga 1 de Perú - Universitario vs FBC Melgar. Transmisión por L1 MAX.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20261011130000 -0500" stop="20261011153000 -0500" channel="l1max.pe">
+    <title lang="es">UTC vs Sporting Cristal</title>
+    <desc lang="es">Liga 1 de Perú - UTC vs Sporting Cristal. Transmisión por L1 MAX.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20261011153000 -0500" stop="20261011180000 -0500" channel="l1max.pe">
+    <title lang="es">Sport Boys vs Alianza Atlético</title>
+    <desc lang="es">Liga 1 de Perú - Sport Boys vs Alianza Atlético. Transmisión por L1 MAX.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20261011183000 -0500" stop="20261011210000 -0500" channel="l1max.pe">
+    <title lang="es">Cusco FC vs Alianza Lima</title>
+    <desc lang="es">Liga 1 de Perú - Cusco FC vs Alianza Lima. Transmisión por L1 MAX.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20261016130000 -0500" stop="20261016153000 -0500" channel="l1max.pe">
+    <title lang="es">Sport Huancayo vs Cusco FC</title>
+    <desc lang="es">Liga 1 de Perú - Sport Huancayo vs Cusco FC. Transmisión por L1 MAX.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20261016153000 -0500" stop="20261016180000 -0500" channel="l1max.pe">
+    <title lang="es">Los Chankas vs ADT</title>
+    <desc lang="es">Liga 1 de Perú - Los Chankas vs ADT. Transmisión por L1 MAX.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20261017110000 -0500" stop="20261017133000 -0500" channel="l1max.pe">
+    <title lang="es">Sporting Cristal vs Com. Unidos</title>
+    <desc lang="es">Liga 1 de Perú - Sporting Cristal vs Com. Unidos. Transmisión por L1 MAX.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20261017150000 -0500" stop="20261017173000 -0500" channel="l1max.pe">
+    <title lang="es">Juan Pablo II vs Sport Boys</title>
+    <desc lang="es">Liga 1 de Perú - Juan Pablo II vs Sport Boys. Transmisión por L1 MAX.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20261017180000 -0500" stop="20261017203000 -0500" channel="l1max.pe">
+    <title lang="es">FBC Melgar vs Dep. Garcilaso</title>
+    <desc lang="es">Liga 1 de Perú - FBC Melgar vs Dep. Garcilaso. Transmisión por L1 MAX.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20261017203000 -0500" stop="20261017230000 -0500" channel="l1max.pe">
+    <title lang="es">Alianza Lima vs Atlético Grau</title>
+    <desc lang="es">Liga 1 de Perú - Alianza Lima vs Atlético Grau. Transmisión por L1 MAX.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20261018130000 -0500" stop="20261018153000 -0500" channel="l1max.pe">
+    <title lang="es">FC Cajamarca vs CD Moquegua</title>
+    <desc lang="es">Liga 1 de Perú - FC Cajamarca vs CD Moquegua. Transmisión por L1 MAX.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20261018153000 -0500" stop="20261018180000 -0500" channel="l1max.pe">
+    <title lang="es">Alianza Atlético vs Universitario</title>
+    <desc lang="es">Liga 1 de Perú - Alianza Atlético vs Universitario. Transmisión por L1 MAX.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20261018183000 -0500" stop="20261018210000 -0500" channel="l1max.pe">
+    <title lang="es">Cienciano vs UTC</title>
+    <desc lang="es">Liga 1 de Perú - Cienciano vs UTC. Transmisión por L1 MAX.</desc>
+    <category lang="es">Fútbol</category>
+  </programme>
+</tv>
