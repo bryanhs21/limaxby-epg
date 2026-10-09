@@ -3,16 +3,6 @@
   <channel id="l1max.pe">
     <display-name lang="es">L1 MAX</display-name>
   </channel>
-  <programme start="20261008130000 -0500" stop="20261008153000 -0500" channel="l1max.pe">
-    <title lang="es">CD Moquegua vs Cienciano</title>
-    <desc lang="es">Liga 1 de Perú - CD Moquegua vs Cienciano. Transmisión por L1 MAX.</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20261008153000 -0500" stop="20261008180000 -0500" channel="l1max.pe">
-    <title lang="es">Atlético Grau vs Los Chankas</title>
-    <desc lang="es">Liga 1 de Perú - Atlético Grau vs Los Chankas. Transmisión por L1 MAX.</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
   <programme start="20261009200000 -0500" stop="20261009223000 -0500" channel="l1max.pe">
     <title lang="es">Dep. Garcilaso vs Sport Huancayo</title>
     <desc lang="es">Liga 1 de Perú - Dep. Garcilaso vs Sport Huancayo. Transmisión por L1 MAX.</desc>
