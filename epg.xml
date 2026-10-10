@@ -3,11 +3,6 @@
   <channel id="l1max.pe">
     <display-name lang="es">L1 MAX</display-name>
   </channel>
-  <programme start="20261009200000 -0500" stop="20261009223000 -0500" channel="l1max.pe">
-    <title lang="es">Dep. Garcilaso vs Sport Huancayo</title>
-    <desc lang="es">Liga 1 de Perú - Dep. Garcilaso vs Sport Huancayo. Transmisión por L1 MAX.</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
   <programme start="20261010130000 -0500" stop="20261010153000 -0500" channel="l1max.pe">
     <title lang="es">ADT vs FC Cajamarca</title>
     <desc lang="es">Liga 1 de Perú - ADT vs FC Cajamarca. Transmisión por L1 MAX.</desc>
