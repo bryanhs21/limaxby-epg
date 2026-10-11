@@ -3,16 +3,6 @@
   <channel id="l1max.pe">
     <display-name lang="es">L1 MAX</display-name>
   </channel>
-  <programme start="20261010130000 -0500" stop="20261010153000 -0500" channel="l1max.pe">
-    <title lang="es">ADT vs FC Cajamarca</title>
-    <desc lang="es">Liga 1 de Perú - ADT vs FC Cajamarca. Transmisión por L1 MAX.</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20261010153000 -0500" stop="20261010180000 -0500" channel="l1max.pe">
-    <title lang="es">Com. Unidos vs Juan Pablo II</title>
-    <desc lang="es">Liga 1 de Perú - Com. Unidos vs Juan Pablo II. Transmisión por L1 MAX.</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
   <programme start="20261010190000 -0500" stop="20261010213000 -0500" channel="l1max.pe">
     <title lang="es">Universitario vs FBC Melgar</title>
     <desc lang="es">Liga 1 de Perú - Universitario vs FBC Melgar. Transmisión por L1 MAX.</desc>
