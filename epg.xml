@@ -3,11 +3,6 @@
   <channel id="l1max.pe">
     <display-name lang="es">L1 MAX</display-name>
   </channel>
-  <programme start="20261010190000 -0500" stop="20261010213000 -0500" channel="l1max.pe">
-    <title lang="es">Universitario vs FBC Melgar</title>
-    <desc lang="es">Liga 1 de Perú - Universitario vs FBC Melgar. Transmisión por L1 MAX.</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
   <programme start="20261011130000 -0500" stop="20261011153000 -0500" channel="l1max.pe">
     <title lang="es">UTC vs Sporting Cristal</title>
     <desc lang="es">Liga 1 de Perú - UTC vs Sporting Cristal. Transmisión por L1 MAX.</desc>
