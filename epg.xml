@@ -3,21 +3,6 @@
   <channel id="l1max.pe">
     <display-name lang="es">L1 MAX</display-name>
   </channel>
-  <programme start="20261011130000 -0500" stop="20261011153000 -0500" channel="l1max.pe">
-    <title lang="es">UTC vs Sporting Cristal</title>
-    <desc lang="es">Liga 1 de Perú - UTC vs Sporting Cristal. Transmisión por L1 MAX.</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20261011153000 -0500" stop="20261011180000 -0500" channel="l1max.pe">
-    <title lang="es">Sport Boys vs Alianza Atlético</title>
-    <desc lang="es">Liga 1 de Perú - Sport Boys vs Alianza Atlético. Transmisión por L1 MAX.</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20261011183000 -0500" stop="20261011210000 -0500" channel="l1max.pe">
-    <title lang="es">Cusco FC vs Alianza Lima</title>
-    <desc lang="es">Liga 1 de Perú - Cusco FC vs Alianza Lima. Transmisión por L1 MAX.</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
   <programme start="20261016130000 -0500" stop="20261016153000 -0500" channel="l1max.pe">
     <title lang="es">Sport Huancayo vs Cusco FC</title>
     <desc lang="es">Liga 1 de Perú - Sport Huancayo vs Cusco FC. Transmisión por L1 MAX.</desc>
