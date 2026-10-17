@@ -3,11 +3,6 @@
   <channel id="l1max.pe">
     <display-name lang="es">L1 MAX</display-name>
   </channel>
-  <programme start="20261016130000 -0500" stop="20261016153000 -0500" channel="l1max.pe">
-    <title lang="es">Sport Huancayo vs Cusco FC</title>
-    <desc lang="es">Liga 1 de Perú - Sport Huancayo vs Cusco FC. Transmisión por L1 MAX.</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
   <programme start="20261016153000 -0500" stop="20261016180000 -0500" channel="l1max.pe">
     <title lang="es">Los Chankas vs ADT</title>
     <desc lang="es">Liga 1 de Perú - Los Chankas vs ADT. Transmisión por L1 MAX.</desc>
