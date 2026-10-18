@@ -3,11 +3,6 @@
   <channel id="l1max.pe">
     <display-name lang="es">L1 MAX</display-name>
   </channel>
-  <programme start="20261017203000 -0500" stop="20261017230000 -0500" channel="l1max.pe">
-    <title lang="es">Alianza Lima vs Atlético Grau</title>
-    <desc lang="es">Liga 1 de Perú - Alianza Lima vs Atlético Grau. Transmisión por L1 MAX.</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
   <programme start="20261018130000 -0500" stop="20261018153000 -0500" channel="l1max.pe">
     <title lang="es">FC Cajamarca vs CD Moquegua</title>
     <desc lang="es">Liga 1 de Perú - FC Cajamarca vs CD Moquegua. Transmisión por L1 MAX.</desc>
