@@ -3,16 +3,6 @@
   <channel id="l1max.pe">
     <display-name lang="es">L1 MAX</display-name>
   </channel>
-  <programme start="20261017150000 -0500" stop="20261017173000 -0500" channel="l1max.pe">
-    <title lang="es">Juan Pablo II vs Sport Boys</title>
-    <desc lang="es">Liga 1 de Perú - Juan Pablo II vs Sport Boys. Transmisión por L1 MAX.</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20261017180000 -0500" stop="20261017203000 -0500" channel="l1max.pe">
-    <title lang="es">FBC Melgar vs Dep. Garcilaso</title>
-    <desc lang="es">Liga 1 de Perú - FBC Melgar vs Dep. Garcilaso. Transmisión por L1 MAX.</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
   <programme start="20261017203000 -0500" stop="20261017230000 -0500" channel="l1max.pe">
     <title lang="es">Alianza Lima vs Atlético Grau</title>
     <desc lang="es">Liga 1 de Perú - Alianza Lima vs Atlético Grau. Transmisión por L1 MAX.</desc>
