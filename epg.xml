@@ -3,16 +3,6 @@
   <channel id="l1max.pe">
     <display-name lang="es">L1 MAX</display-name>
   </channel>
-  <programme start="20261018130000 -0500" stop="20261018153000 -0500" channel="l1max.pe">
-    <title lang="es">FC Cajamarca vs CD Moquegua</title>
-    <desc lang="es">Liga 1 de Perú - FC Cajamarca vs CD Moquegua. Transmisión por L1 MAX.</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
-  <programme start="20261018153000 -0500" stop="20261018180000 -0500" channel="l1max.pe">
-    <title lang="es">Alianza Atlético vs Universitario</title>
-    <desc lang="es">Liga 1 de Perú - Alianza Atlético vs Universitario. Transmisión por L1 MAX.</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
   <programme start="20261018183000 -0500" stop="20261018210000 -0500" channel="l1max.pe">
     <title lang="es">Cienciano vs UTC</title>
     <desc lang="es">Liga 1 de Perú - Cienciano vs UTC. Transmisión por L1 MAX.</desc>
