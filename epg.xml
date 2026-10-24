@@ -3,11 +3,6 @@
   <channel id="l1max.pe">
     <display-name lang="es">L1 MAX</display-name>
   </channel>
-  <programme start="20261023130000 -0500" stop="20261023153000 -0500" channel="l1max.pe">
-    <title lang="es">UTC vs FBC Melgar</title>
-    <desc lang="es">Liga 1 de Perú - UTC vs FBC Melgar. Transmisión por L1 MAX.</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
   <programme start="20261023151500 -0500" stop="20261023174500 -0500" channel="l1max.pe">
     <title lang="es">Atlético Grau vs ADT</title>
     <desc lang="es">Liga 1 de Perú - Atlético Grau vs ADT. Transmisión por L1 MAX.</desc>
