@@ -3,11 +3,6 @@
   <channel id="l1max.pe">
     <display-name lang="es">L1 MAX</display-name>
   </channel>
-  <programme start="20261024124500 -0500" stop="20261024151500 -0500" channel="l1max.pe">
-    <title lang="es">Sport Huancayo vs Alianza Atlético</title>
-    <desc lang="es">Liga 1 de Perú - Sport Huancayo vs Alianza Atlético. Transmisión por L1 MAX.</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
   <programme start="20261024151500 -0500" stop="20261024174500 -0500" channel="l1max.pe">
     <title lang="es">Cusco FC vs Sporting Cristal</title>
     <desc lang="es">Liga 1 de Perú - Cusco FC vs Sporting Cristal. Transmisión por L1 MAX.</desc>
