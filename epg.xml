@@ -3,11 +3,6 @@
   <channel id="l1max.pe">
     <display-name lang="es">L1 MAX</display-name>
   </channel>
-  <programme start="20261025180000 -0500" stop="20261025203000 -0500" channel="l1max.pe">
-    <title lang="es">Dep. Garcilaso vs Los Chankas</title>
-    <desc lang="es">Liga 1 de Perú - Dep. Garcilaso vs Los Chankas. Transmisión por L1 MAX.</desc>
-    <category lang="es">Fútbol</category>
-  </programme>
   <programme start="20261026150000 -0500" stop="20261026173000 -0500" channel="l1max.pe">
     <title lang="es">Com. Unidos vs Cienciano</title>
     <desc lang="es">Liga 1 de Perú - Com. Unidos vs Cienciano. Transmisión por L1 MAX.</desc>
